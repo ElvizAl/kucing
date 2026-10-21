@@ -1,0 +1,1277 @@
+# 1. Flu Kucing (Cat Flu / Feline Upper Respiratory Infection)
+
+## **1. Pengertian**
+Flu kucing (Cat Flu) adalah penyakit infeksi saluran pernapasan atas yang mudah menular. Penyakit ini terutama disebabkan oleh Feline Herpesvirus-1 (FHV-1) dan Feline Calicivirus (FCV). Infeksi menyebabkan gangguan pada hidung, mata, dan mulut kucing.
+
+## **2. Faktor Risiko**
+- Anak kucing yang belum divaksinasi.
+- Kucing dengan daya tahan tubuh lemah.
+- Tinggal di lingkungan padat kucing.
+- Kontak dengan kucing yang terinfeksi.
+- Mengalami stres berkepanjangan.
+- Menggunakan peralatan yang terkontaminasi virus.
+- Memiliki riwayat infeksi saluran pernapasan.
+
+## **3. Gejala**
+- Bersin berulang.
+- Hidung berair atau tersumbat.
+- Mata berair dan kemerahan.
+- Demam.
+- Batuk pada sebagian kasus.
+- Nafsu makan menurun.
+- Tubuh lemah dan kurang aktif.
+- Air liur berlebihan.
+- Luka pada mulut atau lidah.
+- Kesulitan bernapas pada kasus berat.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik: Menilai gejala pernapasan, mata, dan mulut.
+- Tes PCR: Mendeteksi FHV-1, FCV, atau patogen lainnya.
+- Swab hidung atau mata: Mengambil sampel untuk pemeriksaan laboratorium.
+- Tes darah: Menilai kondisi kesehatan dan komplikasi.
+- Rontgen dada: Memeriksa kemungkinan pneumonia.
+- Kultur bakteri: Mengidentifikasi infeksi bakteri tertentu jika diperlukan. Diagnosis biasanya berdasarkan gejala klinis dan dapat dibantu pemeriksaan laboratorium.
+
+## **5. Penanganan**
+- Terapi cairan: Mengatasi dehidrasi.
+- Antibiotik: Mengobati infeksi bakteri sekunder jika diperlukan.
+- Antivirus: Diberikan pada kasus tertentu, terutama infeksi herpesvirus.
+- Pembersihan mata dan hidung: Mengurangi kotoran serta lendir.
+- Nebulisasi: Membantu mengencerkan lendir.
+- Dukungan nutrisi: Menjaga asupan makanan.
+- Terapi oksigen: Membantu kucing yang mengalami gangguan pernapasan berat.
+- Isolasi: Mengurangi penularan kepada kucing lain. Pengobatan harus disesuaikan dengan penyebab infeksi dan kondisi kucing oleh dokter hewan.
+
+# **6. Pencegahan**
+
+- Memberikan vaksin FHV-1 dan FCV sesuai jadwal.
+- Menjaga kebersihan kandang.
+- Menghindari kontak dengan kucing sakit.
+- Mengisolasi kucing yang terinfeksi.
+- Membersihkan tempat makan dan minum.
+- Menghindari lingkungan terlalu padat.
+- Mengurangi stres pada kucing.
+- Melakukan pemeriksaan kesehatan rutin. Vaksinasi dapat mengurangi tingkat keparahan penyakit, tetapi tidak sepenuhnya mencegah infeksi.
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Respiratory Infections.
+
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/respiratory-infect
+ions
+
+Diakses 20 Oktober 2026.
+
+# **2. Kanker Pada Kucing (Cancer in Cats)**
+
+## **1. Pengertian**
+
+Kanker pada kucing adalah penyakit akibat pertumbuhan sel tubuh yang tidak terkontrol yang menyerang berbagai jenis sel serta organ dalam tubuh. Penyakit ini merupakan salah satu penyebab utama kematian pada kucing, menyumbang sekitar 32% kematian pada kucing yang berusia di atas sepuluh tahun. Kanker awalnya bermanifestasi sebagai benjolan atau tonjolan di bagian tubuh tertentu, tumbuh dengan cepat pada sel yang terdampak, menempel pada jaringan di bawah kulit, serta dapat menyebar ke bagian tubuh lainnya (metastasis).
+
+## **2. Faktor Risiko**
+
+- Kucing yang berusia lanjut/senior (terutama berusia di atas 10 tahun).
+- Terinfeksi Feline Leukemia Virus (FeLV), yang diduga sebagai salah satu faktor risiko utama.
+- Paparan racun atau polutan dari lingkungan.
+- Paparan asap rokok (perokok pasif).
+- Perawatan diri berlebihan (grooming) atau jilatan pada bagian tubuh yang telah kontaklangsung dengan racun lingkungan.
+
+## **3. Gejala**
+
+- Kemunculan benjolan, tonjolan, atau massa abnormal pada bagian tubuh mana pun yang membesar dengan cepat.
+- Penurunan berat badan dan kehilangan nafsu makan secara bertahap atau drastis.
+- Luka pada kulit yang tidak kunjung sembuh.
+- Lemas, lesu, dan penurunan tingkat aktivitas.
+- Kesulitan bernapas, mengunyah, atau menelan (tergantung lokasi dan organ yang terdampak).
+
+## **4. Diagnosis**
+
+- Pemeriksaan Fisik: Menilai kondisi tubuh umum serta meraba benjolan/tonjolan pada organ luar atau kelenjar.
+- Pemeriksaan Pencitraan (Rontgen / Sinar-X & USG): Melihat bentuk, ukuran, dan penyebaran massa tumor di dalam organ tubuh.
+- Sitologi & Biopsi: Mengambil sampel jaringan atau sel tumor untuk pemeriksaan mikroskopis.
+- Tes Laboratorium (Tes Darah & Urin): Menilai fungsi organ serta kondisi kesehatan umum kucing.
+- Pemindaian Nuklir / Pencitraan Lanjutan: Mendeteksi lokasi dan tingkat keganasan penyebaran sel kanker.
+
+## **5. Penanganan**
+
+- Pembedahan (Bedah Eksisi): Pengangkatan massa tumor atau benjolan secara medis.
+- Terapi Radiasi (Radioterapi): Menggunakan paparan radiasi untuk menghancurkan atau menekan pertumbuhan sel kanker.
+- Kemoterapi: Pemberian obat-obatan khusus untuk membunuh sel-sel kanker yang membelah cepat.
+- Imunoterapi: Terapi untuk merangsang sistem kekebalan tubuh kucing agar dapat melawan sel kanker.
+
+## **6. Pencegahan**
+
+- Meminimalkan paparan asap rokok dan racun/bahan kimia berbahaya di dalam lingkungan rumah.
+- Menjaga kebersihan area sekitar dan segera membersihkan tubuh/bulu kucing jika terkena bahan kimia lingkungan agar tidak tergilat saat grooming.
+- Melakukan vaksinasi dan tes rutin terhadap Feline Leukemia Virus (FeLV).
+- Melakukan pemeriksaan kesehatan rutin (medical check-up) ke dokter hewan, terutama bagi kucing yang sudah berusia senior (di atas 8–10 tahun) untuk deteksi dini.
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Warning signs of cancer.
+
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/warning-signs-cancer
+
+Diakses 20 Oktober 2026.
+
+# **3. Leukemia Kucing (Feline Leukemia Virus / FeLV)**
+
+## **1. Pengertian**
+Feline Leukemia Virus (FeLV) adalah infeksi retrovirus yang menyerang dan melemahkan sistem kekebalan tubuh kucing. Infeksi ini memicu berbagai komplikasi serius seperti anemia, kanker (limfoma), dan infeksi sekunder berulang.
+
+## **2. Faktor Risiko**
+- Kucing outdoor yang sering berkeliaran di luar rumah.
+- Kucing jantan tidak steril yang sering berkelahi.
+- Kontak dekat jangka panjang (saling menjilat, berbagi tempat makan/minum).
+- Anak kucing yang lahir dari induk terinfeksi FeLV.
+- Kucing yang tinggal di populasi padat tanpa status FeLV yang jelas.
+
+## **3. Gejala**
+- Penurunan berat badan secara bertahap.
+- Bulu kusam dan tampak tidak terawat.
+- Anemia (gusi dan konjungtiva pucat).
+- Demam yang hilang timbul.
+- Radang gusi dan mulut kronis (stomatitis).
+- Pembengkakan kelenjar getah bening.
+- Diare kronis dan infeksi kulit berulang.
+
+## **4. Diagnosis**
+- Tes darah cepat (ELISA/Rapid Test FeLV): Mendeteksi antigen p27 dalam darah.
+- Tes PCR FeLV: Mengonfirmasi infeksi dan mendeteksi materi genetik virus.
+- Pemeriksaan darah lengkap (CBC): Menilai tingkat anemia dan sel darah.
+- Biopsi atau aspirasi jarum halus jika dicurigai timbul tumor/limfoma. Pemeriksaan skrining berkala disarankan untuk kucing berkeliaran atau sebelum mengenalkan kucing baru.
+
+## **5. Penanganan**
+- Perawatan suportif dan manajemen gejala.
+- Pemberian pakan berkualitas tinggi dan bergizi seimbang.
+- Pengobatan infeksi sekunder segera dengan antibiotik atau antijamur.
+- Pemberian imunomodulator jika direkomendasikan dokter hewan.
+- Perawatan gigi dan mulut berkala.
+- Transfusi darah pada kondisi anemia berat. Tidak ada obat untuk menyembuhkan FeLV; perawatan bertujuan memperpanjang dan meningkatkan kualitas hidup kucing.
+
+## **6. Pencegahan**
+- Vaksinasi FeLV bagi kucing berisiko tinggi (terutama kucing outdoor).
+- Melakukan tes FeLV pada kucing baru sebelum digabungkan.
+- Memelihara kucing secara indoor untuk mencegah kontak dengan kucing terinfeksi.
+- Sterilisasi kucing untuk mengurangi perilaku berkelahi.
+- Menjaga kebersihan dan tidak berbagi tempat makan dengan kucing asing. Pencegahan terbaik adalah menjaga kucing tetap berada di dalam rumah dan vaksinasi.
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Feline Leukemia Virus.
+https://www.vet.cornell.edu/departments/cornell-feline-health-center/health-information/feline-health-topics/feline-leukemia-virus
+Diakses 20 Oktober 2026.
+
+# **4. Immunodefisiensi Kucing (Feline Immunodeficiency Virus / FIV)**
+
+## **1. Pengertian**
+Feline Immunodeficiency Virus (FIV) adalah infeksi lentivirus yang merusak sistem kekebalan tubuh secara perlahan, mirip dengan HIV pada manusia. Kucing terinfeksi menjadi sangat rentan terhadap berbagai infeksi oportunistik.
+
+## **2. Faktor Risiko**
+- Kucing jantan outdoor yang tidak disteril.
+- Riwayat sering terlibat perkelahian dan mendapat luka gigitan dalam.
+- Kucing dewasa atau tua yang hidup liar.
+- Kontak dengan populasi kucing berkeliaran yang terinfeksi.
+
+## **3. Gejala**
+- Demam persisten berulang.
+- Penurunan berat badan secara perlahan.
+- Stomatitis kronis (radang mulut dan gusi parah).
+- Infeksi kulit, telinga, dan saluran pernapasan berulang.
+- Bulu kusam dan rontok.
+- Diare kronis.
+- Pembengkakan kelenjar getah bening.
+
+## **4. Diagnosis**
+- Tes darah cepat (ELISA/Rapid Test FIV): Mendeteksi antibodi spesifik terhadap FIV.
+- Tes Western Blot atau PCR: Digunakan untuk mengonfirmasi hasil tes antibodi.
+- Pemeriksaan darah lengkap: Menilai tingkat imunosupresi dan kondisi kesehatan umum. Anak kucing di bawah 6 bulan dapat menunjukkan hasil positif palsu akibat antibodi maternal.
+
+## **5. Penanganan**
+- Isolasi indoor penuh untuk mencegah infeksi sekunder dan penularan ke kucing lain.
+- Penanganan cepat terhadap infeksi sekunder (bakteri, jamur, parasit).
+- Pemberian diet seimbang dan bergizi tinggi (hindari daging mentah).
+- Perawatan kesehatan gigi dan mulut secara teratur.
+- Pemberian suplemen vitamin dan terapi suportif. Kucing positif FIV dapat hidup bertahun-tahun dengan kualitas hidup baik jika dirawat dengan benar.
+
+## **6. Pencegahan**
+- Memelihara kucing di dalam rumah (indoor lifestyle).
+- Sterilisasi kucing jantan dan betina untuk mengurangi dorongan agresif/berkelahi.
+- Melakukan tes FIV pada kucing baru sebelum dikenalkan ke rumah.
+- Menghindari perkelahian antar kucing. Mencegah luka gigitan melalui sterilisasi dan pemeliharaan indoor adalah langkah pencegahan paling efektif.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Feline Immunodeficiency Virus (FIV).
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-immunodeficiency-virus-fiv
+Diakses 20 Oktober 2026.
+
+# 5. **Peritonitis Infeksius Kucing (Feline Infectious Peritonitis / FIP)**
+
+## **1. Pengertian**
+
+Infeksi cacing pada kucing adalah kondisi infestasi parasit internal (endoparasit) yang mengkolonisasi berbagai organ dalam tubuh kucing (keluarga Felidae). Menurut klasifikasi zoologi, parasit ini terutama dibagi menjadi dua kelompok utama, yaitu Nematoda (cacing gempal/cacing gelang seperti *Toxocara mystax*) dan Cacing Pipih (terutama Cestoda atau cacing pita dan Trematoda). Sebagai predator, kucing umumnya bertindak sebagai inang akhir bagi parasit-parasit ini. Cacing gelang umumnya berkembang biak tanpa inang perantara, sedangkan siklus perkembangan cacing pipih selalu membutuhkan inang alternatif.
+
+## **2. Faktor Risiko**
+
+- Kucing yang hidup di luar rumah (outdoor) atau sering berburu mangsa liar (tikus, burung, reptil kecil, atau hewan inang perantara lainnya).
+- Lingkungan atau tanah yang terkontaminasi oleh telur/larva cacing dari kotoran hewan lain.
+- Kontak dengan inang alternatif/perantara yang membawa larva parasit.
+- Kucing yang hidup berdekatan dengan hewan lain atau manusia tanpa program kontrol parasit rutin.
+- Anak kucing yang belum pernah mendapatkan obat cacing sejak lahir.
+
+## **3. Gejala**
+
+- Kebanyakan infeksi berjalan tanpa gejala (asimtomatik) atau hanya memicu gejala ringan.
+- Diare atau perubahan konsistensi feses.
+- Perut tampak membuncit (pot-bellied) terutama pada anak kucing.
+- Bulu kusam, kering, dan tidak terawat.
+- Penurunan berat badan dan kelemahan umum.
+- Gangguan Berpotensi memicu penyakit klinis (helminthosis) jika jumlah populasi cacing di dalam organ tubuh sangat tinggi.
+
+## **4. Diagnosis**
+
+- Pemeriksaan Mikroskopis Feses (Flotasi/Sedimentasi Feses): Metode utama untuk mendeteksi keberadaan telur atau larva cacing dalam feses kucing.
+- Pemeriksaan Makroskopis: Mengidentifikasi potongan cacing pita (proglotid) atau cacing utuh yang keluar bersama kotoran atau muntahan kucing.
+- Pemeriksaan Fisik & Klinis: Menilai tingkat anemia, berat badan, serta kondisi perut kucing.
+
+## **5. Penanganan**
+
+- Pemberian obat cacing (anthelmintik) spektrum luas yang disesuaikan dengan jenis cacing yang menginfeksi (misalnya obat khusus nematoda atau cestoda).
+- Terapi rehidrasi dan nutrisi suportif jika kucing mengalami diare berat atau penurunan kondisi fisik.
+- Pengulangan dosis obat cacing sesuai jadwal petunjuk dokter hewan untuk membasmi larva yang baru menetas.
+
+## **6. Pencegahan**
+
+
+- Menjaga kebersihan tempat tinggal dan membersihkan litter box (kotak pasir) secara rutin setiap hari.
+- Memelihara kucing di dalam rumah (indoor) untuk mencegah aktivitas berburu hewan liar pembawa parasit.
+- Mencuci tangan menggunakan sabun setelah memegang kotoran atau merawat kucing untuk memutus rantai penularan zoonosis ke manusia.
+
+Penyakit Kucing 8
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Feline Infectious Peritonitis.
+
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-infectious-peritonitis
+
+Diakses 20 Oktober 2026.
+
+Catatan: judul menyebut FIP, tetapi isi di atas membahas infeksi cacing. Sumber FIP sesuai judul; rujukan untuk isi cacing:
+
+Gastrointestinal Parasites of Cats: https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/gastrointestinal-parasites-cats
+
+# 6. **Calicivirus Kucing (Feline Calicivirus / FCV)**
+
+## **1. Pengertian**
+Feline Calicivirus (FCV) adalah virus pernapasan utama pada kucing yang menyebabkan infeksi saluran pernapasan atas, luka/sariawan parah di mulut, dan kadang memicu sindrom kepincangan sendi.
+
+## **2. Faktor Risiko**
+- Anak kucing atau kucing belum divaksinasi.
+- Lingkungan penampungan, cattery, atau kelompok kucing padat.
+- Kontak dengan sekresi hidung, mata, atau air liur kucing sakit.
+- Stress dan ventilasi ruangan yang buruk.
+
+## **3. Gejala**
+- Sariawan dan luka terbuka pada lidah, gusi, atau bibir.
+- Air liur menetes berlebihan (hipersalivasi).
+- Bersin dan keluar cairan dari hidung.
+- Demam dan kehilangan nafsu makan akibat nyeri mulut.
+- Kepincangan atau nyeri sendi mendadak (limping kitten syndrome).
+- Mata berair dan berselaput.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik: Identifikasi ulkus/sariawan khas di area mulut.
+- Tes PCR dari swab mulut, hidung, atau konjungtiva.
+- Isolasi virus di laboratorium jika diperlukan. Sariawan mulut yang khas merupakan petunjuk kuat infeksi FCV.
+
+## **5. Penanganan**
+- Obat pereda nyeri (analgesik) untuk mengurangi rasa sakit di mulut.
+- Pemberian pakan basah yang dilembutkan atau nutrisi hangat.
+- Antibiotik spektrum luas untuk mencegah infeksi bakteri sekunder.
+- Terapi cairan jika kucing mengalami dehidrasi.
+- Pembersihan area mulut dan hidung secara teratur. Dukungan nutrisi dan kontrol nyeri sangat penting agar kucing tetap mau makan.
+
+## **6. Pencegahan**
+- Vaksinasi rutin FCV sesuai jadwal.
+- Isolasi kucing terinfeksi hingga sembuh total.
+- Desinfeksi kandang dan peralatan dengan pemutih dilusi.
+- Menjaga kebersihan dan kelembapan udara yang stabil. Vaksinasi mengurangi keparahan gejala meskipun mutasi strain FCV masih dapat terjadi.
+
+## **Sumber rujukan**
+ABCD. GUIDELINE for Feline calicivirus infection.
+https://www.abcdcatsvets.org/guideline-for-feline-calicivirus-infection/
+Diakses 20 Oktober 2026.
+
+# 7. **Gagal Ginjal Kronis (Chronic Kidney Disease / CKD)**
+
+## **1. Pengertian**
+Gagal ginjal kronis adalah penurunan fungsi ginjal secara bertahap dan irreversible dalam menyaring sisa metabolme darah, menjaga keseimbangan cairan, serta mengatur konsentrasi elektrolit tubuh.
+
+## **2. Faktor Risiko**
+- Usia tua (kucing senior di atas 7-10 tahun).
+- Riwayat penyakit ginjal akut atau infeksi saluran kemih kronis.
+- Faktor genetik (misalnya Penyakit Ginjal Polikistik / PKD pada ras Persia).
+- Tekanan darah tinggi (hipertensi) kronis.
+- Paparan racun atau obat-obatan nefrotoksik.
+
+## **3. Gejala**
+- Sering minum air dalam jumlah banyak (polidipsia).
+- Sering buang air kecil dengan jumlah volume meningkat (poliuria).
+- Penurunan berat badan bertahap.
+- Muntah persisten dan mual.
+- Napas berbau amonia/uremik.
+- Bulu kusam dan lemas.
+- Sariawan pada gusi dan lidah.
+
+## **4. Diagnosis**
+- Tes darah lengkap & kimia darah: Peningkatan kadar BUN, Kreatinin, dan SDMA.
+- Urinalisis: Menilai berat jenis urin (USG rendah) dan kandungan protein.
+- USG Abdomen: Memeriksa struktur dan ukuran ginjal.
+- Pengukuran tekanan darah sistemik. Deteksi dini melalui tes SDMA dapat mengenali penurunan fungsi ginjal lebih awal.
+
+## **5. Penanganan**
+- Diet khusus ginjal (rendah fosfor, protein berkualitas tinggi).
+- Terapi cairan subkutan (subcutan fluid) berkala di rumah.
+- Pemberian pengikat fosfor (phosphate binder) pada makanan.
+- Obat anti-muntah dan pelindung lambung.
+- Kontrol hipertensi dengan obat antihipertensi.
+- Suplemen kalium atau penambah sel darah merah jika mengalami anemia. Penanganan CKD bertujuan memperlambat kerusakan ginjal dan menjaga kualitas hidup kucing.
+
+## **6. Pencegahan**
+- Menyediakan air bersih dan segar secara melimpah.
+- Pemeriksaan darah dan urin rutin pada kucing senior (di atas 7 tahun).
+- Menghindari penggunaan obat tanpa resep dokter hewan.
+- Memberikan makanan berkualitas tinggi dan menjaga hidrasi memadai. Deteksi dini melalui pemeriksaan rutin adalah cara terbaik memperpanjang usia kucing dengan CKD.
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Chronic Kidney Disease.
+
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/chronic-kidney-disease
+
+Diakses 20 Oktober 2026.
+
+# **8. Diabetes Mellitus pada Kucing**
+
+## **1. Pengertian**
+Diabetes mellitus adalah gangguan metabolik kronis di mana tubuh kucing tidak dapat memproduksi insulin yang cukup atau tidak dapat menggunakan insulin secara efektif, menyebabkan kadar gula darah melonjak tinggi.
+
+## **2. Faktor Risiko**
+- Obesitas atau kelebihan berat badan signifikan.
+- Kucing jantan yang telah disteril.
+- Kucing berusia tua (di atas 8 tahun).
+- Penggunaan obat kortikosteroid jangka panjang.
+- Kurangnya aktivitas fisik/olahraga.
+
+## **3. Gejala**
+- Sering buang air kecil (poliuria).
+- Sering minum air (polidipsia).
+- Nafsu makan sangat meningkat (polifagia) tetapi berat badan justru turun.
+- Kelemahan pada kaki belakang (berjalan dengan sendi tumit menyentuh tanah / plantigrade posture).
+- Bulu kering dan kusam.
+- Lemas dan kurang aktif.
+
+## **4. Diagnosis**
+- Pemeriksaan gula darah (Glukosa persisten tinggi).
+- Pemeriksaan Fruktosamina darah: Mengonfirmasi hiperglikemia berkelanjutan beberapa minggu.
+- Urinalisis: Mendeteksi keberadaan glukosa dan keton dalam urin. Tingkat stres saat pemeriksaan dapat menaikkan gula darah sementara, sehingga tes fruktosamina sangat berguna.
+
+## **5. Penanganan**
+- Suntikan insulin rutin harian sesuai dosis resep dokter hewan.
+- Perubahan diet: Makanan tinggi protein dan sangat rendah karbohidrat.
+- Jadwal makan yang teratur dan konsisten.
+- Program penurunan berat badan secara bertahap untuk kucing obesitas.
+- Pemantauan kadar gula darah secara berkala di rumah atau klinik. Beberapa kucing dapat mengalami remisi diabetes jika ditangani secara dini dan tepat.
+
+## **6. Pencegahan**
+- Menjaga berat badan ideal kucing dan mencegah obesitas.
+- Memberikan pakan tinggi protein dan rendah karbohidrat.
+- Mendorong aktivitas fisik dan permainan aktif harian.
+- Membatasi penggunaan obat steroid jangka panjang jika memungkinkan. Gaya hidup aktif dan kontrol diet adalah kunci pencegahan diabetes pada kucing.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Feline Diabetes.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-diabetes
+Diakses 20 Oktober 2026.
+
+# 9. **Hipertiroidisme Kucing (Feline Hyperthyroidism)**
+
+## **1. Pengertian**
+Hipertiroidisme adalah kondisi kelenjar tiroid memproduksi hormon tiroid secara berlebihan. Kondisi ini biasanya disebabkan oleh pembesaran jinak (adenoma) pada kelenjar tiroid dan meningkatkan laju metabolisme tubuh secara drastis.
+
+## **2. Faktor Risiko**
+- Kucing berusia tua (biasanya di atas 10 tahun).
+- Paparan bahan kimia lingkungan (seperti PBDEs pada debu atau makanan kaleng).
+- Pola makan pakan kaleng jenis tertentu secara eksklusif selama bertahun-tahun.
+
+## **3. Gejala**
+- Penurunan berat badan drastis meskipun nafsu makan sangat tinggi.
+- Gelisah, hiperaktif, atau perubahan perilaku menjadi agresif.
+- Detak jantung sangat cepat (takikardia) atau ireguler.
+- Muntah dan diare berkala.
+- Sering minum dan sering buang air kecil.
+- Bulu tampak kusut, berminyak, dan tidak terawat.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik: Palpasi pembesaran kelenjar tiroid di area leher.
+- Tes darah T4 Total: Menunjukkan peningkatan kadar hormon tiroid T4.
+- Pemeriksaan kimia darah & profil ginjal.
+- Auskultasi jantung dan pemeriksaan EKG/Ekokardiografi. Pemeriksaan fungsi ginjal harus dilakukan bersamaan karena hipertiroidisme dapat menyembunyikan CKD.
+
+## **5. Penanganan**
+- Obat antitiroid harian (Methimazole / Thiamazole).
+- Terapi Yodium Radioaktif (I-131): Menghancurkan jaringan tiroid abnormal.
+- Diet terapeutik pembatasan yodium ketat.
+- Pembedahan pengangkatan kelenjar tiroid (Tiroidektomi). Pilihan terapi tergantung pada usia, kondisi ginjal, dan ketersediaan fasilitas kesehatan.
+
+## **6. Pencegahan**
+- Pemeriksaan kesehatan dan tes darah rutin pada kucing berusia di atas 8 tahun.
+- Memberikan variasi pakan berkualitas baik.
+- Mengurangi paparan bahan kimia sintetik di dalam rumah. Deteksi dini memungkinkan manajemen kondisi sebelum terjadi kerusakan organ sekunder seperti jantung.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Hyperthyroidism in Cats.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hyperthyroidism-cats
+Diakses 20 Oktober 2026.
+
+# **10. Lipidosis Hati Kucing (Feline Hepatic Lipidosis / Fatty Liver Disease)**
+
+## **1. Pengertian**
+
+Lipidosis hati adalah kondisi darurat di mana akumulasi lemak dalam jumlah besar menumpuk di sel-sel hati, mengganggu fungsi hati secara akut. Kondisi ini sering dipicu oleh periode tidak mau makan (anoreksia).
+
+## **2. Faktor Risiko**
+
+- Kucing dengan riwayat obesitas.
+- Periode stres berat (pindah rumah, kehilangan pemilik, kucing baru).
+- Adanya penyakit primer yang menyebabkan hilangnya nafsu makan.
+- Perubahan pakan secara mendadak yang membuat kucing mogok makan.
+
+## **3. Gejala**
+
+- Anoreksia total (tidak mau makan sama sekali selama beberapa hari).
+- Penurunan berat badan drastis dalam waktu singkat.
+- Kuning pada gusi, mata, dan kulit (Jaundice / Ikterus).
+- Lemas parah dan kelemahan otot leher (leher melengkung ke bawah).
+- Muntah dan mual persisten.
+- Air liur menetes berlebihan.
+
+## **4. Diagnosis**
+
+- Pemeriksaan fisik: Ditemukan jaundice dan pembesaran hati.
+- Tes darah: Peningkatan enzim hati (ALKP/ALT) dan bilirubin tinggi.
+- USG Abdomen: Menunjukkan gambaran hati yang hiperekoik (penumpukan lemak).
+- Biopsi atau Aspirasi Jarum Halus (FNA) hati untuk konfirmasi. Pemeriksaan mendadak sangat penting untuk membedakan dari penyakit hati lainnya.
+
+## **5. Penanganan**
+
+- Dukungan nutrisi intensif melalui Pipa Pemakanan (Feeding Tube / N-G tube / E-tube).
+- Terapi cairan infus untuk mengoreksi dehidrasi dan elektrolit.
+- Pemberian obat anti-muntah dan penambah nafsu makan.
+- Suplemen pelindung hati (Hepatoprotektor seperti L-carnitine, S-Adenosylmethionine).
+- Penanganan penyakit primer yang memicu anoreksia. Pemberian nutrisi konsisten melalui pipa pemakanan adalah kunci utama kesembuhan lipidosis hati.
+
+## **6. Pencegahan**
+
+- Mencegah obesitas pada kucing.
+- Jangan biarkan kucing tidak makan lebih dari 24-48 jam.
+- Melakukan transisi pakan secara perlahan dan bertahap.
+- Segera bawa ke dokter hewan jika kucing menunjukkan tanda penurunan nafsu makan. Intervensi dini saat kucing mulai mogok makan dapat mencegah berkembangnya lipidosis hati.
+
+## **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Hepatic Lipidosis.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hepatic-lipidosis
+Diakses 20 Oktober 2026.
+
+# **11. Penyakit Saluran Kemih Bawah Kucing (Feline Lower Urinary Tract Disease / FLUTD)**
+
+## **1. Pengertian**
+FLUTD adalah kelompok gangguan kesehatan yang mempengaruhi kandung kemih dan uretra kucing. Kondisi ini dapat berupa sistitis idiopatik, pembentukan kristal/batu ginjal-kandung kemih, atau penyumbatan uretra.
+
+## **2. Faktor Risiko**
+- Kurang minum air dan diet pakan kering secara eksklusif.
+- Obesitas dan kurangnya aktivitas bergerak.
+- Kucing jantan yang disteril (memiliki uretra lebih sempit).
+- Stres lingkungan (perubahan suasana rumah, persaingan tempat buang air).
+- Litter box yang kotor atau kurang jumlahnya.
+
+## **3. Gejala**
+- Kesulitan dan mengejan saat buang air kecil (dysuria).
+- Sering bolak-balik ke litter box dengan urin keluar sedikit.
+- Menangis atau mengaduh saat buang air kecil.
+- Terdapat darah dalam urin (hematuria).
+- Buang air kecil sembarangan di luar litter box.
+- Menjilati area genital secara berlebihan.
+- Perut bagian bawah tegang dan keras (kasus tersumbat total).
+
+## **4. Diagnosis**
+- **Urinalisis:** Memeriksa keberadaan kristal, sel darah merah, protein, dan pH urin.
+- **Kultur urin:** Mendeteksi infeksi bakteri sekunder.
+- **Rontgen Abdomen & USG Kandung Kemih:** Mendeteksi batu kemih (urolith) atau menebal dinding.
+- **Pemeriksaan darah:** Menilai fungsi ginjal (BUN/Kreatinin) jika terjadi sumbatan. Penyumbatan uretra total merupakan kondisi darurat medis yang fatal jika tidak segera ditangani.
+
+## **5. Penanganan**
+- Pemasangan kateter urin darurat jika terjadi penyumbatan total uretra.
+- Terapi pereda nyeri dan obat pelemas otot uretra.
+- Terapi cairan infus untuk membilas saluran kemih.
+- Diet khusus kesehatan saluran kemih (urinary diet) untuk melarutkan kristal.
+- Pembedahan (Perineal Urethrostomy) pada kasus penyumbatan berulang. Sumbatan urin harus dibebaskan dalam waktu 24 jam untuk mencegah gagal ginjal akut.
+
+## **6. Pencegahan**
+- Meningkatkan asupan air minum (gunakan fountain atau pakan basah).
+- Menyediakan litter box bersih dengan jumlah ideal (jumlah kucing + 1).
+- Mengurangi faktor stres lingkungan.
+- Menjaga berat badan ideal kucing.
+- Memberikan pakan khusus urinary sesuai anjuran. Hidrasi yang cukup adalah langkah pencegahan paling efektif terhadap pembentukan kristal urin.
+
+# **Sumber rujukan**
+
+Cornell University - Cornell Feline Health Center. Feline Lower Urinary Tract Disease.
+
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-lower-urinary-tract-disease
+
+Diakses 20 Oktober 2026.
+
+# **12. Kardiomiopati Hipertrofik (Hypertrophic Cardiomyopathy / HCM)**
+
+## **1. Pengertian**
+Kardiomiopati Hipertrofik (HCM) adalah penyakit jantung paling umum pada kucing, ditandai dengan menebal abnormal otot dinding ventrikel kiri jantung yang mengganggu fungsi pemompaan darah.
+
+## **2. Faktor Risiko**
+- Predisposisi genetik pada ras tertentu (Maine Coon, Ragdoll, Sphynx, British Shorthair).
+- Usia dewasa hingga tua.
+- Adanya hipertensi atau hipertiroidisme sekunder.
+
+## **3. Gejala**
+- Sering kali tidak bergejala pada tahap awal (asymptomatic).
+- Napas cepat dan dangkal (takipnea) atau dengan mulut terbuka.
+- Lemas dan cepat lelah saat beraktivitas.
+- Gusi tampak kebiruan atau pucat.
+- Kelumpuhan mendadak pada kaki belakang disertai nyeri hebat (akibat tromboembolisme arteri / gumpalan darah).
+
+## **4. Diagnosis**
+- Ekokardiografi (USG Jantung): Standar emas untuk mengukur menebal dinding jantung.
+- Elektrokardiogram (EKG): Mendeteksi aritmia atau gangguan irama jantung.
+- Foto Rontgen Dada: Evaluasi pembesaran jantung dan efusi pleura/edema paru.
+- Tes darah biomarker (ProBNP): Indikator stres otot jantung. Banyak kucing HCM terdiagnosa pertama kali saat mengalami krisis pernapasan atau kelumpuhan kaki.
+
+## **5. Penanganan**
+- Obat-obatan jantung (Beta-blocker, ACE-inhibitor) untuk mengontrol detak jantung.
+- Obat antikoagulan/antiplatelet (seperti Clopidogrel) untuk mencegah gumpalan darah.
+- Diuretik (seperti Furosemide) untuk mengurangi penumpukan cairan di paru-paru.
+- Terapi oksigen saat mengalami krisis sesak napas.
+- Pengurangan stres ketat di lingkungan rumah. HCM tidak dapat disembuhkan, namun pengobatan membantu mengelola gejala dan mencegah komplikasi.
+
+## **6. Pencegahan**
+- Skrining genetik sebelum membiakkan ras berisiko tinggi.
+- Ekokardiografi rutin pada kucing ras rentan.
+- Pemeriksaan kesehatan berkala dan auskultasi jantung oleh dokter hewan.
+- Mengontrol penyakit penyerta seperti hipertiroidisme. Deteksi dini sangat penting untuk memulai terapi pencegahan gumpalan darah.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Hypertrophic Cardiomyopathy.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hypertrophic-cardiomyopathy
+Diakses 20 Oktober 2026.
+
+# 13. **Toksplasmosis (Toxoplasmosis)**
+
+## **1. Pengertian**
+Toksplasmosis adalah penyakit infeksi parasit yang disebabkan oleh protozoa Toxoplasma gondii. Kucing merupakan satu-satunya inang definitif di mana parasit ini dapat berkembang biak dan mengeluarkan ookista melalui feses.
+
+## **2. Faktor Risiko**
+- Kucing outdoor yang berburu tikus, burung, atau hewan kecil liar.
+- Diberi pakan daging mentah atau setengah matang.
+- Kucing dengan sistem imunitas lemah (seperti terinfeksi FeLV/FIV).
+
+## **3. Gejala**
+- Sebagian besar kucing sehat tidak menunjukkan gejala (asimtomatik).
+- Demam dan kehilangan nafsu makan.
+- Lemas dan penurunan berat badan.
+- Sesak napas dan batuk (jika menyerang paru-paru).
+- Peradangan mata (uveitis, jaundice).
+- Gangguan saraf seperti kejang, tremor, atau kelemahan (pada kasus berat).
+
+## **4. Diagnosis**
+- Tes antibodi serologi (IgM dan IgG): Menilai infeksi aktif atau riwayat paparan.
+- Pemeriksaan PCR dari sampel darah, cairan otak, atau sampel jaringan.
+- Pemeriksaan flotasi feses (meskipun ookista hanya keluar dalam waktu singkat). Titer IgM yang tinggi biasanya mengindikasikan infeksi aktif yang memerlukan penanganan.
+
+## **5. Penanganan**
+- Pemberian antibiotik spesifik (Clindamycin) selama 2-4 minggu.
+- Terapi obat alternatif seperti Trimethoprim-Sulfonamide jika diperlukan.
+- Tetes mata kortikosteroid jika terjadi peradangan mata (uveitis).
+- Terapi cairan dan dukungan nutrisi suportif. Pengobatan dini memberikan tingkat kesembuhan yang baik pada sebagian besar kasus.
+
+## **6. Pencegahan**
+- Memberikan pakan matang atau pakan komersial (hindari daging mentah).
+- Mencegah kucing berburu hewan liar di luar rumah.
+- Membersihkan litter box setiap hari.
+- Menjaga kebersihan tempat pakan dan lingkungan.
+- Ibu hamil disarankan menghindari membersihkan litter box kucing. Memasak pakan hingga matang dan pemeliharaan indoor memutus siklus infeksi Toxoplasma.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Toxoplasmosis in Cats.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/toxoplasmosis-cats
+
+Diakses 20 Oktober 2026.
+
+# **14. Penyakit Cakaran Kucing (Cat Scratch Disease / Bartonellosis)**
+
+## **1. Pengertian**
+Cat Scratch Disease adalah infeksi bakteri yang disebabkan oleh *Bartonella henselae*. Bakteri ini hidup dalam darah kucing dan ditularkan antar kucing terutama melalui gigitan pinjal (kutu kucing). Penyakit ini bersifat zoonosis.
+
+## **2. Faktor Risiko**
+- Kucing yang memiliki infestasi pinjal/kutu.
+- Kucing outdoor atau kucing liar.
+- Anak kucing di bawah usia 1 tahun (lebih sering membawa bakteri).
+
+## **3. Gejala**
+- Kucing umumnya tidak menunjukkan gejala klinis (karier asimtomatik).
+- Demam ringan pada sebagian kecil kasus.
+- Radang gusi (gingivitis) atau stomatitis.
+- Pembengkakan kelenjar getah bening.
+- Peradangan mata atau gangguan reproduksi pada kondisi langka.
+
+## **4. Diagnosis**
+- Tes PCR dari sampel darah lengkap.
+- Tes serologi (IFA/ELISA) mendeteksi antibodi terhadap Bartonella.
+- Kultur darah khusus. Pemeriksaan biasanya dilakukan jika kucing menunjukkan gejala relevan atau pemilik mengalami gejala CSD.
+
+## **5. Penanganan**
+- Pengobatan antibiotik (seperti Doxycycline, Azithromycin, atau Enrofloxacin).
+- Pengendalian pinjal secara agresif di tubuh dan lingkungan.
+- Perawatan suportif jika terdapat gejala klinis. Pengobatan antibiotik diberikan terutama jika kucing menunjukkan gejala klinis nyata.
+
+## **6. Pencegahan**
+- Penggunaan obat mencegah pinjal (spot-on/oral) secara rutin sepanjang tahun.
+- Memotong kuku kucing secara berkala.
+- Memelihara kucing di dalam rumah.
+- Mencuci bersih luka gigitan atau cakaran kucing segera dengan sabun dan air mengalir. Pengendalian pinjal adalah kunci utama menghentikan penyebaran Bartonella.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Zoonotic Disease: What Can I Catch from My Cat?.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/zoonotic-diseases-what-can-i-catch-my-cat
+Diakses 20 Oktober 2026.
+
+# 15. Klamidiosis Kucing (Chlamydophila Felis / Feline Chlamydiosis)
+
+## **1. Pengertian**
+Chlamydophila felis adalah infeksi bakteri intraseluler yang terutama menyerang jaringan mukosa mata (konjungtiva) dan saluran pernapasan atas pada kucing.
+
+## **2. Faktor Risiko**
+- Anak kucing berusia 2 hingga 6 bulan.
+- Lingkungan padat kucing seperti shelter atau cattery.
+- Kontak langsung antar kucing yang terinfeksi.
+- Kondisi imun tubuh lemah.
+
+## **3. Gejala**
+- Konjungtivitis parah (mata merah, bengkak, dan berair).
+- Keluarnya cairan kental keputihan atau bernanah dari mata.
+- Mata partially tertutup karena pembengkakan selaput mata (chemosis).
+- Bersin-bersin dan ingusan ringan.
+- Demam ringan dan nafsu makan sedikit menurun.
+
+## **4. Diagnosis**
+- Tes PCR dari swab konjungtiva mata.
+- Pemeriksaan sitologi usapan konjungtiva: Menemukan badan inklusi intrastoplasmik.
+- Kultur bakteri. Mata bengkak parah dengan kotoran bernanah pada anak kucing sering kali mengarah ke Chlamydophila.
+
+## **5. Penanganan**
+- Pemberian antibiotik sistemik oral (Doxycycline) selama minimal 4 minggu.
+- Salep atau tetes mata antibiotik (seperti Oxytetracycline).
+- Pembersihan kotoran mata secara berkala dengan kasa steril dan saline.
+- Isolasi kucing sakit dari kucing sehat lainnya. Pengobatan harus dilanjutkan minimal 2 minggu setelah semua gejala klinis hilang total.
+
+## **6. Pencegahan**
+- Vaksinasi Chlamydophila felis pada kelompok kucing berisiko tinggi.
+- Mengisolasi kucing baru atau kucing yang menunjukkan gejala mata merah.
+- Menjaga sanitasi lingkungan dan peralatan.
+- Menghindari kepadatan populasi kucing. Vaksinasi membantu mengurangi tingkat keparahan gejala mata dan pernapasan.
+
+## **Sumber rujukan**
+ABCD. GUIDELINE for Chlamydia felis.
+https://www.abcdcatsvets.org/guideline-for-chlamydia-felis/
+Diakses 20 Oktober 2026.
+
+# **16. Dermatitis Alergi Pinjal (Flea Allergy Dermatitis / FAD)**
+
+## **1. Pengertian**
+Flea Allergy Dermatitis adalah reaksi alergi hipersensitivitas pada kulit kucing terhadap bahan kimia/antigen yang ada dalam air liur pinjal saat menggigit.
+
+## **2. Faktor Risiko**
+- Adanya pinjal (Ctenocephalides felis) di tubuh atau lingkungan tempat tinggal.
+- Predisposisi alergi individu pada kucing.
+- Lingkungan iklim hangat dan lembab yang mendukung perkembangbiakan pinjal.
+
+## **3. Gejala**
+- Gatal hebat (pruritus) hingga kucing menggaruk dan menggigit tubuhnya.
+- Kerontokan bulu (alopecia) terutama di daerah punggung bawah, pangkal ekor, dan paha.
+- Kerak-kerak kecil pada kulit (miliary dermatitis).
+- Kulit kemerahan, menebal, dan luka akibat garukan.
+- Kucing tampak gelisah dan sering menjilat tubuh berlebihan.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik: Menemukan pinjal atau kotoran pinjal (flea dirt) menggunakan sisir serit.
+- Tes alergi kulit intradermal atau tes serologi spesifik-IgE.
+- Respon positif terhadap terapi eliminasi pinjal. Bahkan gigitan satu atau dua ekor pinjal sudah cukup memicu reaksi gatal hebat pada kucing sensitif.
+
+## **5. Penanganan**
+- Pemberian obat antiparasit/pinjal efektif (Spot-on atau tablet oral).
+- Obat kortikosteroid atau antihistamin jangka pendek untuk meredakan gatal hebat.
+- Antibiotik atau antijamur topikal/sistemik jika terjadi infeksi kulit sekunder.
+- Pembersihan dan pembasmian pinjal di seluruh lingkungan rumah. Penanganan tidak akan berhasil tanpa membasmi pinjal di lingkungan tempat tinggal.
+
+## **6. Pencegahan**
+- Pengaplikasian obat mencegah pinjal rutin sesuai jadwal.
+- Mencuci alas tidur kucing secara berkala dengan air panas.
+- Rutin menyedot debu/karpet di dalam rumah.
+- Menjaga kebersihan kucing dan menyisir bulunya. Pengendalian pinjal secara teratur sepanjang tahun adalah kunci utama mencegah kembalinya FAD.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Flea Allergy.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/flea-allergy
+Diakses 20 Oktober 2026.
+
+# **17. Asma Kucing (Feline Asthma)**
+
+## **1. Pengertian**
+Asma kucing adalah penyakit saluran pernapasan kronis non-infeksi yang ditandai dengan peradangan berlebih, spasme otot polos bronkus (bronkokonstriksi), dan produksi lendir berlebih di paru-paru.
+
+## **2. Faktor Risiko**
+- Paparan alergen udara (asap rokok, debu pasir kucing/litter, parfum, pembersih lantai).
+- Spora jamur/kapang di ruangan lembap.
+- Predisposisi genetik (sering terjadi pada ras Siam dan persilangannya).
+
+## **3. Gejala**
+- Batuk persisten dengan posisi tubuh membungkuk dan leher menjulur ke depan.
+- Napas berbunyi mengi (wheezing).
+- Kesulitan bernapas (respiratory distress) dengan mulut terbuka.
+- Napas cepat dan dangkal.
+- Lemas dan ketidakmampuan beraktivitas.
+
+## **4. Diagnosis**
+- Foto Rontgen Dada (X-ray): Menunjukkan pola bronkial ('donut' dan 'tramlines') serta hiperinflasi paru.
+- Lavase Bronkoalveolar (BAL): Mengambil sampel sel paru untuk analisis eosinofil.
+- Eliminasi kemungkinan infeksi parasit paru (Aelurostrongylus) atau cacing jantung. Batuk pada kucing sering disalahartikan oleh pemilik sebagai usaha mengeluarkan hairball.
+
+## **5. Penanganan**
+- Kortikosteroid inhalasi (melalui spacer/topeng khusus kucing) atau oral untuk meredakan peradangan.
+- Bronkodilator (inhalasi atau oral) untuk membuka saluran napas saat kram/kambuh.
+- Terapi oksigen darurat saat krisis sesak napas.
+- Menghilangkan meminimalkan alergen dari lingkungan rumah. Terapi inhalasi lebih disukai karena memiliki efek samping sistemik yang jauh lebih minimal.
+
+## **6. Pencegahan**
+- Gunakan pasir kucing bebas debu (dust-free litter).
+- Dilarang merokok di dalam rumah atau dekat kucing.
+- Gunakan pemurni udara (air purifier) HEPA di dalam rumah.
+- Hindari penggunaan parfum, obat nyamuk semprot, atau dupa di dekat kucing. Mengontrol kualitas udara rumah adalah langkah pencegahan paling vital untuk kucing asmatis.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Feline Asthma: What You Need To Know.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-asthma-what-you-need-know
+Diakses 20 Oktober 2026.
+
+# 18. **Anemia Infeksius Kucing (Feline Infectious Anemia / Haemobartonellosis)**
+
+## **1. Pengertian**
+Anemia Infeksius Kucing adalah kondisi anemia hemolitik yang disebabkan oleh infeksi bakteri *Mycoplasma haemofelis*. Bakteri ini menempel pada permukaan sel darah merah dan memicu tubuh merusak sel darah merahnya sendiri.
+
+## **2. Faktor Risiko**
+- - Infestasi pinjal, kutu, atau caplak sebagai vektor penular.
+- - Luka gigitan akibat perkelahian dengan kucing terinfeksi.
+- - Kucing dengan infeksi penyerta FeLV atau FIV.
+
+## **3. Gejala**
+- - Anemia berat (gusi, lidah, dan telinga tampak sangat pucat atau kekuningan).
+- - Lemas, lesu, dan tidur terus-menerus.
+- - Demam yang hilang timbul.
+- - Napas cepat dan detak jantung berdebar kencang.
+- - Penurunan nafsu makan dan berat badan.
+- - Pica (kebiasaan aneh memakan tanah atau pasir litter).
+
+## **4. Diagnosis**
+- - Tes PCR darah spesifik *Mycoplasma haemofelis*: Metode paling akurat.
+- - Apusan darah tepi: Mengidentifikasi organisme kecil di permukaan eritrosit di bawah mikroskop.
+- - Pemeriksaan darah lengkap (CBC): Menilai tingkat keparahan anemia (PCV rendah). Bakteri dapat menghilang secara siklis dari darah, sehingga tes PCR lebih direkomendasikan daripada apusan darah.
+
+## **5. Penanganan**
+- - Pemberian antibiotik spesifik (Doxycycline atau Marbofloxacin) selama 3-4 minggu.
+- - Obat kortikosteroid (Prednisolone) untuk menghentikan penghancuran sel darah merah oleh imun tubuh.
+- - Transfusi darah darurat jika kadar eritrosit/PCV sangat rendah dan mengancam jiwa.
+- - Terapi cairan dan dukungan nutrisi. Pengobatan tepat waktu umumnya memberikan prognosis yang sangat baik.
+
+## **6. Pencegahan**
+- - Pengendalian pinjal dan kutu secara teratur sepanjang tahun.
+- - Memelihara kucing di dalam rumah untuk mencegah perkelahian.
+- - Melakukan tes FeLV/FIV pada kucing berisiko. Mencegah gigitan pinjal adalah langkah pencegahan primer paling ampuh.
+
+## **Sumber rujukan**
+ABCD. GUIDELINE for Haemoplasmosis in Cats.
+https://www.abcdcatsvets.org/guideline-for-haemoplasmosis-in-cats/
+Diakses 20 Oktober 2026.
+
+# 19. **Resorpsi Gigi Kucing (Feline Odontoclastic Resorptive Lesion / FORL)**
+
+## **1. Pengertian**
+FORL adalah penyakit gigi yang sangat menyakitkan di mana sel-sel odontoklas secara tidak normal merusak dan menyerap struktur jaringan keras gigi (email, dentin, hingga akar gigi).
+
+## **2. Faktor Risiko**
+- Kucing berusia dewasa dan tua (di atas 3-5 tahun).
+- Adanya penyakit periodontal atau radang gusi kronis.
+- Gangguan metabolisme kalsium atau pengaruh lokal dalam mulut.
+
+## **3. Gejala**
+- Kehilangan nafsu makan atau menolak makan pakan keras.
+- Meringis, memiringkan kepala, atau menjatuhkan makanan saat mengunyah.
+- Air liur menetes berlebihan (hipersalivasi) kadang bercampur darah.
+- Gusi di sekitar gigi tampak membengkak, kemerahan, dan menutupi bagian gigi.
+- Kucing menyentuh atau menggosok mukanya karena kesakitan.
+- Perubahan perilaku menjadi lebih murung.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik dan eksplorasi mulut di bawah pembiusan umum.
+- Foto Rontgen Gigi (Dental X-Ray): Memeriksa tingkat penyerapan akar gigi dan tulang rahang.
+- Penggunaan probe periodontal untuk mendeteksi lubang/kerusakan gigi. Rontgen gigi mutlak diperlukan karena sebagian besar kerusakan terjadi di bawah garis gusi.
+
+## **5. Penanganan**
+- Ekstraksi (pencabutan) gigi yang mengalami lesi resorpsi.
+- Amputasi mahkota gigi (Crown Amputation) jika akar gigi telah menyatu penuh dengan tulang rahang.
+- Pemberian obat pereda nyeri (analgesik) dan antiinflamasi pasca pembedahan.
+- Pemberian antibiotik jika terdapat infeksi bakteri sekunder. Pencabutan gigi yang terinfeksi adalah satu-satunya cara menghilangkan rasa sakit secara permanen.
+
+## **6. Pencegahan**
+- Pemeriksaan kesehatan gigi dan mulut rutin oleh dokter hewan setiap 6-12 bulan.
+- Pembersihan karang gigi (scaling) secara berkala.
+- Menyikat gigi kucing di rumah menggunakan pasta gigi khusus hewan.
+- Pemberian pakan khusus kesehatan gigi jika direkomendasikan. Perawatan higiene mulut yang baik membantu menekan risiko penyakit peradangan gigi.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Tooth Resorption.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/tooth-resorption
+Diakses 20 Oktober 2026.
+
+# 20. Pyometra pada Kucing
+
+## **1. Pengertian**
+Pyometra adalah infeksi bakteri berat pada rahim (uterus) yang menyebabkan penumpukan nanah berbahaya di dalam organ tersebut. Kondisi ini merupakan keadaan darurat medis yang mengancam jiwa.
+
+## **2. Faktor Risiko**
+- Kucing betina tidak steril berusia dewasa atau tua.
+- Pengaruh perubahan hormonal (progesteron) berulang setelah siklus birahi (estrus).
+- Penggunaan suntik KB / hormon mencegah hamil pada kucing.
+
+## **3. Gejala**
+- Keluar cairan bernanah atau berdarah yang berbau dari vagina (Pyometra Terbuka).
+- Perut membesar dan tegang tanpa adanya cairan dari vagina (Pyometra Tertutup).
+- Demam, lemas parah, dan depresi.
+- Sering minum dan sering buang air kecil.
+- Muntah dan kehilangan nafsu makan total.
+
+## **4. Diagnosis**
+- Pemeriksaan USG Abdomen: Menunjukkan pembesaran rahim berisi cairan kental/nanah.
+- Foto Rontgen Abdomen: Mengidentifikasi rahim yang membesar.
+- Pemeriksaan darah lengkap: Menunjukkan kadar sel darah putih (leukosit) yang sangat tinggi. Pyometra tertutup jauh lebih berbahaya karena nanah berisiko memicu ruptur rahim dan sepsis.
+
+## **5. Penanganan**
+- Operasi pengangkatan rahim dan ovarium darurat (Ovari hysterectomy / Steril).
+- Terapi cairan infus intensif untuk mengoreksi dehidrasi dan syok.
+- Pemberian antibiotik spektrum luas intravena.
+- Pemberian obat pereda nyeri dan perawatan pasca operasi ketat. Operasi steril darurat adalah tindakan utama dan terbaik untuk menyelamatkan nyawa kucing.
+
+## **6. Pencegahan**
+- Melakukan operasi steril (spay) pada kucing betina sejak usia muda.
+- Sangat dilarang memberikan suntikan hormon KB/pencegah kehamilan pada kucing. Sterilisasi dini adalah pencegahan 100% efektif terhadap timbulnya pyometra.
+
+## **Sumber rujukan**
+<VCA Animal Hospitals. Pyometra in Cats.</VCA>
+https://vcahospitals.com/know-your-pet/pyometra-in-cats
+Diakses 20 Oktober 2026.
+
+# **21. Ringworm (Dermatofitosis / Jamur Kucing)**
+
+## **1. Pengertian**
+Ringworm adalah infeksi jamur superfisial pada kulit, bulu, dan kuku kucing yang paling sering disebabkan oleh jamur *Microsporum canis*. Penyakit ini sangat menular dan bersifat zoonosis (dapat menular ke manusia).
+
+## **2. Faktor Risiko**
+- Kondisi lingkungan yang lembab, hangat, dan kurang sirkulasi udara.
+- Kucing muda/kitten, kucing tua, atau kucing dengan sistem imun lemah.
+- Kontak langsung dengan kucing terinfeksi atau spora di sprei/sisir.
+- Bulu panjang yang sulit dirawat (seperti ras Persia).
+
+## **3. Gejala**
+- Bercak kebotakan melingkar (alopecia) pada kulit.
+- Kulit bersisik, kering, kemerahan, atau berkerak.
+- Rambut rapuh, mudah patah, atau rontok di area wajah, telinga, dan kaki.
+- Kadang disertai gatal ringan hingga sedang.
+- Kerusakan atau kelainan pada bentuk kuku.
+
+## **4. Diagnosis**
+- Pemeriksaan Lampu Wood: Spora *Microsporum canis* memancarkan fluoresensi hijau cerah.
+- Pemeriksaan Mikroskopis (Apusan Bulu): Melihat spora jamur pada batang rambut.
+- Kultur Jamur (Dermatophyte Test Medium / DTM): Metode paling pasti.
+- Biopsi kulit pada kasus yang tak tipikal. Pemeriksaan kultur DTM mengonfirmasi spesies jamur penyebab dengan tepat.
+
+## **5. Penanganan**
+- Obat antijamur oral (seperti Itraconazole atau Terbinafine) untuk kasus luas.
+- Pengobatan topikal: Sampo antijamur (Miconazole/Chlorhexidine) atau krim antijamur.
+- Pencukuran bulu lokal di sekitar area yang terinfeksi berat.
+- Desinfeksi dan pembersihan spora jamur di lingkungan rumah menggunakan disinfektan. Pengobatan harus dilanjutkan sampai kultur jamur menunjukkan hasil negatif.
+
+## **6. Pencegahan**
+- Menjaga kebersihan dan kelembapan lingkungan rumah.
+- Mengisolasi kucing terinfeksi dari hewan lain dan anggota keluarga.
+- Mencuci alas tidur dan menyedot debu lingkungan secara teratur.
+- Menjaga daya tahan tubuh dan nutrisi kucing. Sanitasi lingkungan dan isolasi kasus aktif sangat penting memutus rantai penularan jamur.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Ringworm: A Serious but Readily Treatable Affliction.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/ringworm-serious-readily-treatable-affliction
+Diakses 20 Oktober 2026.
+
+# **22. Disfungsi Kognitif Kucing (Feline Cognitive Dysfunction / Demensia Kucing)**
+
+## **1. Pengertian**
+Disfungsi Kognitif Kucing adalah penurunan fungsi otak terkait proses penuaan yang mempengaruhi daya ingat, kesadaran, pola tidur, dan perilaku sosial kucing.
+
+## **2. Faktor Risiko**
+- Usia tua (kucing senior berusia di atas 11-15 tahun).
+- Kerusakan degeneratif pada jaringan otak akibat penumpukan protein beta-amiloid.
+
+## **3. Gejala**
+- Disorientasi dan kebingungan (tersesat di sudut rumah atau di belakang pintu).
+- Vokalisasi berlebihan (mengeong sangat keras terutama pada malam hari).
+- Perubahan pola tidur (tidur sepanjang siang, gelisah berjalan di malam hari).
+- Lupa lokasi litter box sehingga buang air sembarangan.
+- Perubahan interaksi sosial (menjadi sangat manja atau justru menarik diri).
+- Menatap dinding atau ruang kosong secara konstan.
+
+## **4. Diagnosis**
+- Diagnosis eksklusi: Menyingkirkan penyakit medis lain seperti CKD, Hipertiroidisme, atau Hipertensi.
+- Evaluasi riwayat perilaku dan kuisioner khusus disfungsi kognitif. Pemeriksaan darah dan urin harus dilakukan untuk memastikan tidak ada nyeri fisik atau kondisi organik.
+
+## **5. Penanganan**
+- Modifikasi lingkungan: Menyediakan akses mudah ke litter box bertepi rendah, tempat tidur hangat.
+- Pemberian suplemen nutrisi: Asam lemak Omega-3, antioksidan (Vitamin E/C), dan L-carnitine.
+- Pemberian obat neuroprotektif atau obat pengatur tidur jika direkomendasikan dokter hewan.
+- Menjaga rutinitas harian yang stabil untuk mengurangi kebingungan. Penanganan bertujuan memperlambat penurunan fungsi otak dan kenyamanan hidup kucing.
+
+## **6. Pencegahan**
+- Memberikan stimulasi mental dan permainan ringan sepanjang hidup kucing.
+- Pola makan kaya antioksidan sejak usia dewasa.
+- Pemeriksaan kesehatan berkala pada kucing senior. Stimulasi mental dan nutrisi antioksidan menjaga kesehatan otak kucing lansia.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Cognitive Dysfunction.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/cognitive-dysfunction
+Diakses 20 Oktober 2026.
+
+# **23. Rabies pada Kucing**
+
+## **1. Pengertian**
+Rabies adalah penyakit infeksi viral akut yang menyerang sistem saraf pusat. Disebabkan oleh Rabies virus, penyakit ini sangat berbahaya, bersifat zoonosis, dan selalu berakibat fatal setelah gejala klinis muncul.
+
+## **2. Faktor Risiko**
+- Kucing berkeliaran di luar rumah tanpa pengawasan.
+- Kucing yang belum pernah mendapatkan vaksinasi rabies.
+- Paparan gigitan hewan liar (seperti kelelawar, musang) atau kucing/anjing rabies.
+
+## **3. Gejala**
+- Bentuk Ganas (Furious Rabies): Agresif berlebihan, menggigit benda mati, gelisah, hilang rasa takut.
+- Bentuk Paralitis (Dumb Rabies): Kelumpuhan rahang, rahang menggantung, air liur menetes berlebihan.
+- Takut air (hidrofobia) atau ketakutan pada cahaya/suara.
+- Ketidakseimbangan berjalan dan kejang-kejang.
+- Kematian terjadi dalam beberapa hari setelah muncul gejala.
+
+## **4. Diagnosis**
+- Diagnosis definitif hanya dapat dilakukan melalui pemeriksaan laboratorium pasca-kematian (post-mortem).
+- Tes Fluorescent Antibody (FAT) pada jaringan otak hewan. Secara medis tidak ada tes ante-mortem (sebelum mati) yang aman dan valid untuk rabies.
+
+## **5. Penanganan**
+- Tidak ada pengobatan efektif untuk rabies setelah gejala muncul.
+- Euthanasia humanis atau isolasi ketat di bawah pengawasan dinas/dokter hewan.
+- Pembersihan luka segera dengan sabun dan air mengalir selama 15 menit jika ada paparan gigitan. Fokus medis sepenuhnya pada pencegahan dan perlindungan keselamatan manusia.
+
+## **6. Pencegahan**
+- Vaksinasi rabies berkala sesuai regulasi pemerintah/veteriner.
+- Memelihara kucing secara indoor dan tidak membiarkannya berkeliaran bebas.
+- Menghindari kontak dengan hewan liar atau tidak dikenal. Vaksinasi rabies adalah perlindungan wajib dan paling ampuh.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Zoonotic Disease: What Can I Catch from My Cat?.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/zoonotic-diseases-what-can-i-catch-my-cat
+Diakses 20 Oktober 2026.
+
+# 24. **Otitis Eksterna Kucing (Otitis Externa)**
+
+## **1. Pengertian**
+Otitis Eksterna adalah peradangan pada saluran telinga bagian luar kucing. Kondisi ini dapat dipicu oleh infestasi parasit tungau telinga, infeksi bakteri, atau jamur.
+
+## **2. Faktor Risiko**
+- Infestasi tungau telinga (*Otodectes cynotis*) - penyebab paling sering pada kucing.
+- Alergi makanan atau alergi lingkungan.
+- Telinga lembap, kotor, atau penumpukan serumen berlebihan.
+- Adanya benda asing atau polip di dalam saluran telinga.
+
+## **3. Gejala**
+- Sering menggeng-gengkan kepala atau memiringkan kepala.
+- Menggaruk telinga secara berlebihan hingga timbul luka di belakang telinga.
+- Kotoran telinga melimpah, berwarna hitam kusam seperti bubuk kopi (khas tungau).
+- Bau tidak sedap keluar dari dalam telinga.
+- Daun dan saluran telinga kemerahan serta membengkak.
+
+## **4. Diagnosis**
+- Pemeriksaan otoskop: Melihat saluran telinga dan kondisi gendang telinga.
+- Pemeriksaan sitologi mikroskopis kotoran telinga: Mengidentifikasi tungau, bakteri, atau jamur Yeast.
+- Kultur dan uji sensitivitas bakteri jika infeksi berulang. Identifikasi penyebab utama mutlak diperlukan agar pemberian obat tepat sasaran.
+
+## **5. Penanganan**
+- Pembersihan saluran telinga menggunakan cairan pembersih telinga (ear cleaner) khusus.
+- Obat tetes telinga antiparasit (untuk tungau) atau tetes kombinasi antibiotik/antijamur.
+- Pengobatan spot-on sistemik untuk membasmi tungau telinga.
+- Obat antiinflamasi/pereda nyeri jika telinga sangat bengkak. Pembersihan telinga secara benar harus dilakukan sebelum meneteskan obat.
+
+## **6. Pencegahan**
+- Pembersihan telinga rutin dengan pembersih khusus kucing.
+- Penggunaan obat antiparasit/kutu berkala.
+- Menjaga telinga tetap kering setelah mandi. Pemeriksaan dan kebersihan telinga berkala mencegah penumpukan parasit dan kotoran.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Otitis.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/otitis
+Diakses 20 Oktober 2026.
+
+# **25. Kriptosporidiosis (Cryptosporidiosis)**
+
+## **1. Pengertian**
+Kriptosporidiosis adalah penyakit infeksi usus halus yang disebabkan oleh parasit protozoa mikroskopis Cryptosporidium. Parasit ini menyerang sel epitel usus dan memicu diare.
+
+## **2. Faktor Risiko**
+- Konsumsi air atau pakan yang terkontaminasi ookista Cryptosporidium.
+- Anak kucing dengan sistem kekebalan tubuh yang belum sempurna.
+- Kucing terinfeksi FeLV/FIV.
+- Lingkungan tempat tinggal yang padat dan sanitasi buruk.
+
+## **3. Gejala**
+- Diare cair persisten atau hilang timbul.
+- Kram dan nyeri perut.
+- Penurunan berat badan dan dehidrasi.
+- Lemas dan nafsu makan berkurang.
+- Muntah pada beberapa kasus.
+
+## **4. Diagnosis**
+- Pemeriksaan spesimen feses dengan pewarnaan Acid-Fast (Kinyoun stain).
+- Tes Immunofluorescence atau ELISA feses.
+- Tes PCR feses untuk mendeteksi DNA Cryptosporidium. Ookista Cryptosporidium berukuran sangat kecil sehingga memerlukan teknik pewarnaan khusus.
+
+## **5. Penanganan**
+- Terapi rehidrasi cairan untuk mengatasi dehidrasi akibat diare.
+- Pemberian obat antiparasit khusus (seperti Nitazoxanide atau Tylosin) sesuai petunjuk dokter hewan.
+- Dukungan nutrisi dengan pakan mudah dicerna.
+- Isolasi kucing untuk mencegah penularan ke hewan lain atau manusia. Sebagian besar kasus pada kucing imunkompeten dapat sembuh mandiri dengan terapi suportif.
+
+## **6. Pencegahan**
+- Menyediakan air minum bersih yang telah dimasak/difilter.
+- Menjaga sanitasi tempat tinggal dan kebersihan tempat pakan.
+- Membersihkan kotoran kucing secara rutin.
+- Mencuci tangan dengan sabun setelah memegang kucing. Kebersihan air minum dan kebersihan tangan adalah langkah pencegahan paling penting.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Gastrointestinal Parasites of Cats.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/gastrointestinal-parasites-cats
+Diakses 20 Oktober 2026.
+
+# **26. Sarkoma Lokasi Suntikan (Vaccine-Associated Sarcoma / Feline Injection-Site Sarcoma)**
+
+## **1. Pengertian**
+Sarkoma lokasi suntikan adalah tumor ganas (fibrosarkoma) yang berkembang di area jaringan kulit tempat kucing pernah menerima suntikan atau vaksinasi sebelumnya.
+
+## **2. Faktor Risiko**
+- Reaksi peradangan kronis terhadap komponen adjuvant vaksin tertentu.
+- Suntikan obat jangka panjang (seperti steroid atau antibiotik tertentu).
+- Predisposisi genetik individu kucing terhadap reaksi jaringan.
+
+## **3. Gejala**
+- Benjolan keras, bertambah besar, dan tidak nyeri di bawah kulit area bekas suntikan.
+- Benjolan bertahan lebih dari 3 bulan pasca suntikan.
+- Ukurannya melebihi 2 cm.
+- Luka terbuka atau ulkus pada benjolan jika sudah tahap lanjut.
+
+## **4. Diagnosis**
+- Pemeriksaan Biopsi Jaringan atau Aspirasi Jarum Halus (FNA).
+- Pemeriksaan Histopatologi: Mengonfirmasi keganasan sel fibrosarkoma.
+- CT-Scan atau MRI: Menilai batas invasi tumor ke jaringan sekitarnya.
+- Foto Rontgen Dada: Memeriksa metastasis ke paru-paru. Prinsip '3-2-1' digunakan untuk mencurigai benjolan: bertahan >3 bulan, ukuran >2 cm, atau bertambah besar setelah 1 bulan.
+
+## **5. Penanganan**
+- Pembedahan eksisi tumor secara luas dengan margin bersih (wide surgical margin).
+- Terapi radiasi (radioterapi) sebelum atau sesudah pembedahan.
+- Kemoterapi pendukung untuk menekan risiko rekurensi.
+- Manajemen nyeri. Operasi pengangkatan harus dilakukan secara agresif oleh spesialis bedah untuk mencegah tumor tumbuh kembali.
+
+## **6. Pencegahan**
+- Penyuntikan vaksin pada lokasi ekstremitas bawah (kaki bawah/ekor) sesuai pedoman AAFP.
+- Menghindari penggunaan vaksin ber-adjuvant jika tersedia pilihan non-adjuvant.
+- Pencatatan tanggal dan lokasi spesifik setiap suntikan pada rekam medis. Suntikan di kaki bawah memudahkan tindakan amputasi jika sarkoma berkembang.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Feline Vaccines: Benefits and Risks.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-vaccines-benefits-and-risks
+Diakses 20 Oktober 2026.
+
+# **27. Kriptokokosis (Cryptococcosis)**
+
+## **1. Pengertian**
+Kriptokokosis adalah infeksi jamur sistemik yang paling sering terjadi pada kucing, disebabkan oleh spora jamur *Cryptococcus neoformans* atau *Cryptococcus gattii*.
+
+## **2. Faktor Risiko**
+- Paparan lingkungan yang terkontaminasi kotoran burung (terutama burung merpati) atau kayu lapuk.
+- Menghirup spora jamur dari udara.
+- Kucing dengan gangguan sistem kekebalan tubuh.
+
+## **3. Gejala**
+- Pembengkakan keras pada jembatan hidung ('Roman nose').
+- Keluar cairan bernanah atau berdarah dari hidung (epistaksis).
+- Luka/ulkus kulit yang tidak kunjung sembuh di area wajah dan kepala.
+- Pembengkakan kelenjar getah bening di leher.
+- Gangguan mata (kebutaan mendadak, uveitis).
+- Gejala saraf seperti kejang atau kelumpuhan jika menembus otak.
+
+## **4. Diagnosis**
+- Tes Aglutinasi Latex Antigen (CALAS): Mendeteksi kapsul antigen *Cryptococcus* dalam darah.
+- Sitologi lesi kulit atau sekret hidung: Menemukan sel ragi berdinding tebal dengan kapsul transparan.
+- Biopsi jaringan dan kultur jamur. Tes antigen darah sangat sensitif dan akurat untuk mendeteksi infeksi kriptokokosis.
+
+## **5. Penanganan**
+- Pemberian obat antijamur azole oral (Fluconazole atau Itraconazole) jangka panjang.
+- Pemberian Amphotericin B untuk kasus infeksi saraf pusat berat.
+- Pembedahan pembersihan (debridement) lesi besar jika diperlukan.
+- Terapi suportif hingga tes antigen menunjukkan hasil negatif. Pengobatan memerlukan waktu beberapa bulan hingga lebih dari satu tahun.
+
+## **6. Pencegahan**
+- Mencegah kucing mengakses area yang banyak kotoran burung merpati.
+- Memelihara kucing di dalam rumah (indoor).
+- Membersihkan lingkungan sekitar rumah dari akumulasi kotoran burung. Menghindari sumber spora jamur di lingkungan adalah cara pencegahan terbaik.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Cryptococcosis.
+https://www.vet.cornell.edu/departments/cornell-feline-health-center/health-information/feline-health-topics/cryptococcosis
+Diakses 20 Oktober 2026.
+
+# **28. Jerawat Kucing (Feline Acne)**
+
+## **1. Pengertian**
+Jerawat kucing adalah gangguan keratinisasi folikel kulit di mana terjadi penumpukan keratin dan sebum melimpah yang menyumbat folikel rambut di area dagu dan bibir kucing.
+
+## **2. Faktor Risiko**
+- Penggunaan mangkuk pakan/minum berbahan plastik (menampung bakteri dalam pori-porinya).
+- Kebersihan dagu yang buruk setelah makan.
+- Produksi minyak sebum berlebihan.
+- Stres dan kondisi imun lemah.
+
+## **3. Gejala**
+- Bintik-bintik hitam seperti komedo (blackheads) di area dagu dan bibir.
+- Dagu tampak kotor seperti terkena debu hitam.
+- kemerahan dan bengkak pada dagu.
+- Bintil bernanah (pustula) jika terjadi infeksi sekunder bakteri.
+- Kerontokan bulu di dagu dan rasa gatal.
+
+## **4. Diagnosis**
+- Pemeriksaan fisik langsung pada area dagu.
+- Sitologi kulit (skin scraping/impression smear): Menyingkirkan infeksi Demodex, bakteri, atau jamur. Diagnosis cukup mudah melalui pengamatan komedo khas di area dagu.
+
+## **5. Penanganan**
+- Penggantian mangkuk pakan/minum ke bahan keramik, stainless steel, atau kaca.
+- Pembersihan dagu menggunakan pembersih antiseptik (seperti Chlorhexidine atau Benzoyl Peroxide dilusi).
+- Antibiotik topikal atau oral jika terdapat infeksi bakteri sekunder.
+- Suplementasi asam lemak Omega-3 untuk kesehatan kulit. Jangan pernah memencet komedo di dagu kucing karena dapat memicu infeksi dalam.
+
+## **6. Pencegahan**
+- Gunakan mangkuk keramik atau stainless steel dan cuci bersih setiap hari.
+- Seka dan bersihkan dagu kucing setelah makan pakan basah.
+- Jaga kebersihan area tempat makan. Penggunaan mangkuk non-plastik secara konsisten sangat efektif mencegah jerawat kucing.
+
+## **Sumber rujukan**
+<VCA Animal Hospitals. Chin Acne in Cats.>
+<VCA Animal Hospitals. Chin Acne in Cats.>
+<https://vcahospitals.com/know-your-pet/chin-acne-in-cats>
+<Diakses 20 Oktober 2026.>
+
+# **29. Infeksi Cacing Tambang (Hookworm Infection / Ancylostomiasis)**
+
+## **1. Pengertian**
+Infeksi cacing tambang adalah penyakit parasit usus yang disebabkan oleh cacing *Ancylostoma tubaeforme* atau *Uncinaria stenocephala*. Cacing ini menempel pada dinding usus halus dan menghisap darah kucing.
+
+## **2. Faktor Risiko**
+- Lingkungan tanah atau pasir yang terkontaminasi larva cacing.
+- Penetrasi larva cacing secara langsung melalui kulit kaki/perut kucing.
+- Tertelan larva melalui jilatan tubuh (grooming) atau pakan tercemar.
+- Anak kucing yang menyusui pada induk terinfeksi.
+
+## **3. Gejala**
+- Anemia berat (gusi dan konjungtiva pucat).
+- Diare berwarna gelap kehhitaman seperti ter (melena) akibat perdarahan usus.
+- Penurunan berat badan dan badan kurus kering.
+- Bulu kusam dan lemah.
+- Iritasi kulit pada telapak kaki tempat penetrasi larva.
+
+## **4. Diagnosis**
+- Pemeriksaan flotasi feses di bawah mikroskop: Menemukan telur cacing tambang khas.
+- Pemeriksaan darah lengkap (CBC): Menunjukkan anemia kronis. Pemeriksaan feses berkala sangat direkomendasikan untuk anak kucing.
+
+## **5. Penanganan**
+- Pemberian obat cacing (anthelmintik) seperti Pyrantel Pamoate, Milbemycin, atau Selamectin.
+- Pengulangan pemberian obat cacing 2-3 minggu kemudian untuk membasmi larva yang baru menetas.
+- Transfusi darah pada anak kucing yang mengalami anemia fatal.
+- Terapi cairan dan suplemen zat besi. Dosis obat cacing harus tepat sesuai dengan berat badan kucing.
+
+## **6. Pencegahan**
+- Pemberian obat cacing rutin setiap 1-3 bulan sekali.
+- Membersihkan kotoran di litter box secara harian.
+- Menjaga kebersihan lingkungan tempat tinggal.
+- Memelihara kucing di dalam rumah. Pemberian obat cacing teratur dan sanitasi yang baik mencegah infeksi berulang.
+
+## **Sumber rujukan**
+Cornell University - Cornell Feline Health Center. Gastrointestinal Parasites of Cats.
+https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/gastrointestinal-parasites-cats
+Diakses 20 Oktober 2026.
+
+# 30. **Dermatofitosis Sporotrikosis (Sporotrichosis)**
+
+## **1. Pengertian**
+Sporotrikosis adalah infeksi jamur mendalam (deep fungal infection) yang disebabkan oleh *Sporothrix schenckii* kompleks. Penyakit ini memicu luka kronis pada kulit dan bersifat zoonosis berat (dapat menular ke manusia).
+
+## **2. Faktor Risiko**
+- Kucing liar atau kucing outdoor yang sering berkelahi.
+- Luka gigitan atau cakaran dari kucing terinfeksi.
+- Paparan tanah, kayu, atau tanaman berduri yang tercemar spora Sporothrix.
+
+## **3. Gejala**
+- Luka/nodul keras pada kulit yang melunak, pecah, dan menjadi borok bernanah.
+- Luka sulit sembuh dan terus meluas di area hidung, wajah, atau kaki.
+- Cairan bernanah bercampur darah keluar dari luka.
+- Pembengkakan kelenjar getah bening regional.
+- Penyebaran sistemik ke organ dalam (kasus berat).
+
+## **4. Diagnosis**
+- Sitologi impresi cairan luka: Menemukan sel ragi berbentuk cerutu (cigar-shaped bodies).
+- Kultur Jamur dari spesimen jaringan atau eksudat luka.
+- Pemeriksaan Histopatologi biopsi kulit. Penanganan sampel harus dilakukan dengan kewaspadaan tinggi karena potensi zoonosis yang kuat.
+
+## **5. Penanganan**
+- Pemberian obat antijamur oral (Itraconazole atau Potassium Iodide) dosis tinggi.
+- Pengobatan dilanjutkan minimal 3-4 minggu setelah semua luka kulit sembuh total.
+- Penggunaan sarung tangan APD saat merawat luka kucing.
+- Isolasi ketat kucing selama masa pengobatan. Sporotrikosis memerlukan terapi antijamur berturut-turut selama beberapa bulan.
+
+## **6. Pencegahan**
+- Memelihara kucing di dalam rumah untuk mencegah berkelahi.
+- Gunakan sarung tangan saat menangani kucing liar dengan luka borok.
+- Mengisolasi segera kucing yang dicurigai Sporotrikosis.
+- Menjaga kebersihan dan melakukan disinfeksi area kandang. Meminimalkan berkelahi kucing outdoor merupakan tindakan pencegahan paling efektif.
+
+## **Sumber rujukan**
+ABCD. GUIDELINE for Sporotrichosis.
+https://www.abcdcatsvets.org/guideline-for-sporotrichosis/
+Diakses 20 Oktober 2026.
