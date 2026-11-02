@@ -1,12 +1,12 @@
 import { OpenAIClient } from "@anvia/openai";
-import "dotenv/config"
+import "dotenv/config";
 
 const client = new OpenAIClient({
-    apiKey: process.env.OPENAI_API_KEY!,
-    baseUrl: process.env.OPENAI_BASE_URL!,
-})
+  apiKey: process.env.OPENAI_API_KEY!,
+  baseUrl: process.env.OPENAI_BASE_URL!,
+});
 
-export const model = client.completionModel({
-    modelId: "ag/gemini-3.8-flash-high",
-    api: "chat"
-})
+export const chatModel = client.completionModel({
+  modelId: process.env.OPENAI_MODEL ?? "ag/gemini-3.8-flash-high",
+  api: "chat",
+});

@@ -2,9 +2,13 @@
   "name": "kucing",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/main.ts",
+    "start": "tsx src/main.ts",
+    "typecheck": "tsc --noEmit",
+    "ocr": "tsx src/rag/ocr.ts",
+    "ingest": "tsx src/rag/ingest.ts"
   },
   "keywords": [],
   "author": "",

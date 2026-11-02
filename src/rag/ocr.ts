@@ -14,9 +14,6 @@ const result = await client.parsing.parse({
 });
 
 const pages = (result.markdown?.pages ?? []).filter((page) => page.success);
-const text = pages.map((page) => page.markdown).join("\n\n");
-await writeFile("src/data/penyakit.txt", text);
-
 const pageList = pages.map((page) => ({
   page: page.page_number,
   text: page.markdown,
