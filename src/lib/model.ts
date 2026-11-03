@@ -7,6 +7,6 @@ const client = new OpenAIClient({
 });
 
 export const chatModel = client.completionModel({
-  modelId: process.env.OPENAI_MODEL ?? "ag/gemini-3.8-flash-high",
+  modelId: process.env.OPENAI_MODEL!,
   api: "chat",
 });
