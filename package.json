@@ -7,6 +7,7 @@
     "dev": "tsx watch src/main.ts",
     "start": "tsx src/main.ts",
     "typecheck": "tsc --noEmit",
+    "check:lens": "tsx src/check-lens.ts",
     "ocr": "tsx src/rag/ocr.ts",
     "ingest": "tsx src/rag/ingest.ts"
   },

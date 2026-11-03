@@ -37,3 +37,13 @@ Folder `src/data` sudah dihapus. Untuk memakai pipeline lagi, sediakan
 `src/data/penyakit.pdf`, jalankan `pnpm ocr`, lalu `pnpm ingest`.
 OCR hanya menghasilkan `src/data/penyakit-pages.json` berisi nomor halaman dan teks Markdown.
 Pencarian menggunakan data yang sudah tersedia di Qdrant.
+
+## Lens
+
+Isi `ANVIA_LENS_BASE_URL`, `ANVIA_LENS_PUBLIC_KEY`, dan
+`ANVIA_LENS_SECRET_KEY` di `.env` menggunakan API key proyek Lens.
+Agent memakai satu client dengan capture penuh untuk merekam input dan output.
+
+Jalankan `pnpm check:lens` untuk satu panggilan agent dan mengirim trace
+sebelum proses berakhir. Periksa trace di dashboard Lens; kegagalan provider
+model juga dapat tercatat sebagai trace berstatus error.
