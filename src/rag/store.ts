@@ -11,7 +11,7 @@ export const qdrantClient = new QdrantClient({
 const qdrant = new QdrantVectorClient({ client: qdrantClient });
 
 export const store = qdrant.vectorStore<TextDocument>({
-  collectionName: "penyakit",
+  collectionName: "gembul",
   dimensions: 1536,
   metric: "cosine",
 });
